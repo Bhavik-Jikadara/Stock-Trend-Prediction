@@ -4,7 +4,7 @@
 
 ## Install the requirements libraries using pip
 ----------
-    $ pip install -r pandas-datareader
+    $ pip install -r requirements.txt
 
 ## Type this command and run the project:
 ----------
