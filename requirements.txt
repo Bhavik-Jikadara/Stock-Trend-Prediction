@@ -5,3 +5,4 @@ pandas
 pandas_datareader
 Pillow
 scikit_learn
+tensorflow
